@@ -141,4 +141,4 @@ Steps:
 4. **Spherical Harmonics**
    Y\_l^m = sqrt\[(2l + 1)/(4π) (l – m)!/(l + m)!] · P\_l^m(cos θ) · e^{i m φ}
 
-Use this README to understand the structure and physics implemented in each notebook section.
+
